@@ -1,8 +1,6 @@
 # Third Task.
 
-> dragonfly
 
-dragonfly
 
 
 ## Today I've learned about markdowm and github repos.
